@@ -1,5 +1,6 @@
-import numpy as np
+"""Functions for checking different conditions for matrices"""
 
+import numpy as np
 
 def all_near_zero(a, *, atol: float = 1e-8) -> bool:
     """Checks if the tensor's elements are all near zero.

@@ -1,3 +1,5 @@
+"""KAK-like decomposition and construction of QPD subcircuits"""
+
 import numpy as np
 from numpy import sin, cos
 from conditions import *

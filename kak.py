@@ -1,3 +1,5 @@
+"""KAK decomposition of two-qubit unitary"""
+
 import numpy as np 
 import scipy as sp
 import functools
