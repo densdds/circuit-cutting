@@ -1,0 +1,9 @@
+pytest
+qiskit[visualization]==0.46
+qiskit-aer
+cirq
+tensornetwork
+numpy
+scipy
+matplotlib
+typing
